@@ -20,3 +20,6 @@ Still encountering some slight overfitting. Needed more observation and experime
 
 * **Jonver Oro** - *Initial work* - [jonveroro](https://github.com/jonveroro)
 
+## Dataset
+
+* (IMDB Movie Reviews Dataset on Kaggle)(https://www.kaggle.com/iarunava/imdb-movie-reviews-dataset)
