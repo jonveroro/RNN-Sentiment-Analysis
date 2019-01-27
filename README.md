@@ -8,7 +8,7 @@ Implementation of Deep Reinforcement Learning on the game poker
 * Tensorflow
 
 
-##Current Observation
+## Current Observation
 
 Still encountering some slight overfitting. Needed more observation and experimentation on the data.
 
