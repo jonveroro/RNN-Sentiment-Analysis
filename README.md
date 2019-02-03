@@ -1,6 +1,6 @@
 # RNN Sentiment Analysis
 
-Implementation of Deep Reinforcement Learning on the game poker
+Implementation of RNN on sentiment analysis
 
 ### Prerequisites
 
